@@ -20,6 +20,8 @@ yum install libevent-devel
 yum install libxslt-devel
 # For Ruby/Passenger
 yum install libyaml-devel
+# For MySQL-5.5 by RPM
+yum install libaio-devel
 yum install rpm-devel
 yum install rpmdevtools
 yum install rpm-build
