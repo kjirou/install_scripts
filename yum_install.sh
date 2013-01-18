@@ -35,6 +35,8 @@ yum install freetype-devel
 yum install bzip2-devel
 yum install sqlite3
 yum install sqlite3-devel
+yum install sqlite
+yum install sqlite-devel
 yum install tk-devel
 yum install tcl-devel
 yum install db4-devel
