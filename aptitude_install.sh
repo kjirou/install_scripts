@@ -20,6 +20,8 @@ sudo aptitude install python-dev
 sudo aptitude install python-software-properties
 sudo aptitude install sysv-rc-conf
 sudo aptitude install zsh
+sudo aptitude install screen
+sudo aptitude install vim
 sudo aptitude install tree
 sudo aptitude install expect
 sudo aptitude install git-core
