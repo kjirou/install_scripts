@@ -26,6 +26,7 @@ sudo aptitude install tree
 sudo aptitude install expect
 sudo aptitude install git-core
 sudo aptitude install subversion
+sudo aptitude install python-dev
 sudo aptitude install php
 #sudo aptitude install mailutils  # Uncompleted
 sudo aptitude install mysql-server
